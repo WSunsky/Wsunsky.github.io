@@ -6,10 +6,19 @@
     <description>Recent content in Grow up on Sunsky Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wsunsky.github.io/categories/grow-up/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VSCode test</title>
+      <link>https://wsunsky.github.io/post/vscode/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://wsunsky.github.io/post/vscode/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>summary</title>
